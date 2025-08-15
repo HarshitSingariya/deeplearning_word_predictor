@@ -6,10 +6,6 @@ This repository contains a deep learning model based on Long Short-Term Memory (
 
 A trained model on "The Verdict (1908) by Edith Wharton" is deployed on Hugging Face, allowing for easy access.
 
-### Access the Model
-
-You can access the model directly on Hugging Face by clicking [here](https://huggingface.co/spaces/satvikjain/The_verdict_text_generator).
-
 ## Features
 
 - Implements LSTM for next word prediction.
@@ -26,10 +22,3 @@ You can access the model directly on Hugging Face by clicking [here](https://hug
 - NumPy
 - Pandas
 
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Satvik-jain/DeepLearning_LSTM_WordPredictor.git
-cd DeepLearning_LSTM_WordPredictor
